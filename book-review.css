@@ -46,3 +46,8 @@ main {
 .book-authors{
     color: dimgray;
 }
+
+.book-review-form{
+    background-color: white;
+    padding: 24px;
+}
